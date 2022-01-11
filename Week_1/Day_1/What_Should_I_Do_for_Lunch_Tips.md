@@ -1,13 +1,13 @@
 ### Tips
 
-You may use opporators like shown below.  
+You may use Operators like shown below.  
 * `<`
 * `>`
 * `===`
 
 Work in snipets through the problem, to start off see what values are returned with the given parameters.
 
-Also incorporate using loops like:
+Also incorporate loops like:
 
 * `if`  / `else`
 * `for` / `of` / `in`
